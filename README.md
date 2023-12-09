@@ -52,3 +52,9 @@ python hs_file_uploader.py -s /path/to/local/folder -d /remote/folder
 Feel free to modify the exclusion lists and adjust the worker count in the script as per your requirements.
 
 For more information, refer to the [HubSpot API Documentation](https://developers.hubspot.com/docs/api/overview).
+
+<p align="center">
+    <a href="https://www.buymeacoffee.com/akkaky" target="_blank">
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;">
+    </a>
+</p>
